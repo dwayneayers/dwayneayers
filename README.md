@@ -7,7 +7,6 @@ I am an IT graduate with a strong interest in data center operations, infrastruc
 To secure a Data Center Technician position where I can apply hands-on experience with hardware, cabling, system builds, and documentation while continuing to grow my skills in data center operations and infrastructure support.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -49,5 +48,5 @@ To secure a Data Center Technician position where I can apply hands-on experienc
 ## Projects
 - **PC Hardware Assembly, Bench Testing & Break/Fix Documentation**  
   Hands-on system build including component installation, bench testing outside the case, POST validation, and troubleshooting a no-display issue caused by incorrect video output selection.  
-  🔗 [View Project Repository](https://github.com/yourusername/your-repo)
+  🔗 [View Project Repository](https://github.com/dwayneayers/computer-hardware-assembly)
 
