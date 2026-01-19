@@ -1,5 +1,5 @@
 # Hello, I'm Dwayne Ayers Jr.
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/dwayne-ayers/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT graduate with a strong interest in data center operations, infrastructure, and hands-on technical work. I enjoy building, troubleshooting, and documenting systems, and I am actively preparing for an entry-level Data Center Technician role.
 
@@ -11,14 +11,11 @@ To secure a Data Center Technician position where I can apply hands-on experienc
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| PC Hardware Assembly & Component Identification | Gaming PC Build & Documentation |
-| Hardware Troubleshooting & Diagnostics | Gaming PC Build & Testing |
-| Cable Management & Physical Layer Awareness | PC Build & Home Lab Setup |
-| System Imaging & OS Installation | Windows & Linux Install Lab |
-| Asset Identification & Documentation | Hardware Inventory Lab |
-| Technical Documentation | GitHub Project Write-Ups |
+| PC Hardware Assembly & Component Identification | PC Hardware Assembly & Break/Fix Documentation |
+| Hardware Troubleshooting & Diagnostics         | PC Hardware Assembly & Break/Fix Documentation |
+| Bench Testing & Validation                     | PC Hardware Assembly & Break/Fix Documentation |
+| Asset Awareness & Documentation                | PC Hardware Assembly & Break/Fix Documentation |
+| Technical Documentation                        | PC Hardware Assembly & Break/Fix Documentation |
 
 ## Tools
 
@@ -50,6 +47,7 @@ To secure a Data Center Technician position where I can apply hands-on experienc
 </div>
 
 ## Projects
-- **PC Hardware Assembly & Break/Fix Documentation**
-- **Windows & Linux OS Installation & Validation Lab**
-- **Home Lab Hardware Inventory & Asset Management**
+- **PC Hardware Assembly, Bench Testing & Break/Fix Documentation**  
+  Hands-on system build including component installation, bench testing outside the case, POST validation, and troubleshooting a no-display issue caused by incorrect video output selection.  
+  🔗 [View Project Repository](https://github.com/yourusername/your-repo)
+
