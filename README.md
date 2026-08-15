@@ -1,10 +1,10 @@
 # Hello, I'm Dwayne Ayers Jr.
 <a href="https://linkedin.com/in/dwayne-ayers/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an IT graduate with a strong interest in data center operations, infrastructure, and hands-on technical work. I enjoy building, troubleshooting, and documenting systems, and I am actively preparing for an entry-level Data Center Technician role.
+Early-career IT professional with an Associate of Applied Science in Computer Information Technology and CompTIA A+ certification. I enjoy building, troubleshooting, and documenting technology systems and developing hands-on technical skills through personal projects and labs.
 
 ## Objective
-To secure a Data Center Technician position where I can apply hands-on experience with hardware, cabling, system builds, and documentation while continuing to grow my skills in data center operations and infrastructure support.
+To build and demonstrate practical IT skills through hands-on projects involving computer hardware, operating systems, networking, troubleshooting, and technical documentation while continuing to develop professionally in the technology field.
 
 ## Skills
 
